@@ -15,7 +15,7 @@
 		<java.version>1.8</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<akka-version>2.3.9</akka-version>
-		<mina-version>2.0.16</mina-version>
+		<mina-version>2.1.5</mina-version>
 		<!-- <jrpc-version>3.0.0</jrpc-version> -->
 	</properties>
 

@@ -27,7 +27,7 @@
 		<poi.version>3.9</poi.version>
 		<freemarker.version>2.3.23</freemarker.version>
 		<!-- jdbc driver setting -->
-		<mysql.driver.version>8.0.19</mysql.driver.version>
+		<mysql.driver.version>8.0.28</mysql.driver.version>
 		<!-- other setting -->
 		<jdk.version>1.8</jdk.version>
 		<quartz.version>2.2.1</quartz.version>

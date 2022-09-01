@@ -31,7 +31,7 @@
 		<!-- other setting -->
 		<jdk.version>1.8</jdk.version>
 		<quartz.version>2.2.1</quartz.version>
-		<jsoup.version>1.8.1</jsoup.version>
+		<jsoup.version>1.15.3</jsoup.version>
 		<thinker-pay.version>2.1.2-SNAPSHOT</thinker-pay.version>
 		<cabbage-core.version>2.1.2-SNAPSHOT</cabbage-core.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
